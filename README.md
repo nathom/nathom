@@ -2,5 +2,5 @@ Hello, my name is Nathan. I am a computer engineering student at UCSD with an in
 
 As of August 2023, I am an intern at Yahoo working on development tools and screwdriver-cd.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathom&layout=compact&exclude_repo=alfred-fuzzy-emoji)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathom&layout=compact&exclude_repo=alfred-fuzzy-emoji,nathom.github.io)
 
